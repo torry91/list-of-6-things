@@ -1,6 +1,7 @@
 # Gift Projection App
 
-<img width="712" alt="Untitled" src="https://github.com/torry91/list-of-6-things/assets/149702982/45dbe031-4fbd-41be-ad7e-41ec45bc88ff">
+<img width="592" alt="Untitled" src="https://github.com/torry91/list-of-6-things/assets/149702982/4ffc10bb-fff6-4dd6-bc6d-1f6a198b5386">
+
 
 
 ## Overview
