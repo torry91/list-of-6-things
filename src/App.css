@@ -1,0 +1,27 @@
+.container {
+
+  display: flex;
+
+  justify-content: center;
+
+  background-color: #A3C9AA;
+
+}
+
+
+
+button {
+
+  background-color: #436850;
+
+  color: #fff;
+
+  border: none;
+
+  text-transform: uppercase;
+
+  margin-top: 20px;
+  padding: 15px;
+  border-radius: 5px;
+
+}
